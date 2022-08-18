@@ -4,6 +4,9 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
+Ana Clara Pereira tem 35 anos e possui um carro 100% elétrico. Por causa da limitação de locais para recarregar o carro, ela gosta de parar em um estacionamento onde é oferecido um sistema de recarga para que, em dias que precisa de usar mais o carro, ela não fique sem bateria para chegar em casa.
+
+Augusto Silva tem 42 anos e é vendedor. Como ele que visitar clientes constantemente, gosta de saber onde tem estacionamentos próximos dos clientes e reservar a sua vaga para não atrasar nos seus encontros.
 
 
 ## Histórias de Usuários
@@ -12,7 +15,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|     |	      |	     |
+| Ana Clara Pereira  |	Estacionamento com recarga para carro eletrico |	Para que ela não fique sem bateria para continuar o seu afazeres diários |
+| Augusto Silva | Estacionamento próximo a seus clientes | Para não perder tempo procurando vaga |
+| Augusto Silva | Estacionamento conveniada com sua empresa | Para economizar na hora de estacionar o carro nas visitas |
 
 
 ## Requisitos
@@ -25,9 +30,9 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID        | Descrição do Requisito  | Prioridade |
 |:----------:|-----------------------------------------|:----:|
-| RF-001 | $$ O site deve apresentar a funcionalidade de buscador (search) | ALTA | 
-| RF-002 | $$ O site deve apresentar categorias para facilitar a busca dos usuários | MÉDIA |
-| RF-003 | $$ O site deve apresentar as informações do estabelecimento |ALTA |
+| RF-001 | O site deve apresentar a funcionalidade de buscador (search) | ALTA | 
+| RF-002 | O site deve apresentar categorias de vagas para facilitar a busca dos usuários | MÉDIA |
+| RF-003 | O site deve apresentar as informações do estabelecimento (serviços extras que é oferecido) |ALTA |
 | RF-004 | $$ O site deve apresentar mecanismos para avaliação dos estabelecimentos através de comentário e notas | MÉDIA |
 | RF-005 | $$ O site deve recomendar estabelecimentos de acordo com o perfil de cada usuário | MÉDIA |
 | RF-006 | $$ O site deve possuir um filtro para refinar a busca do usuário | ALTA |
