@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# Easypark
 
-`CURSO`
+`Analise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`2º SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Cristian Balbi de Faria Junior
+* Felipe Ferreira Moraes de Paula
+* Fernando Maia Torres Alves
+* Jhody Mike Possidonio Da Silva
+* Marcos Guimarães Costa Rocha
+* Vinicius Souza
 
 ## Orientador
 
-* Nome completo do professor 1
+* José Wilson Da Costa
 
 ## Instruções de utilização
 
