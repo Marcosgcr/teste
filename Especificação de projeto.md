@@ -20,6 +20,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Carlos Alves  | Estacionamento conveniada com sua empresa | Para economizar na hora de estacionar o carro nas visitas |
 | Diego Costa   | Estacionar o carro próximo a escola | Aguardar o fim do período da aula do filho para busca-lo estando próximo da escola |
 | Luiza Ruiz    | Estacionar o carro próximo ao hospital| Buscar um familiar no hospital tendo o maior conforto possível numa vaga mais próxima ao hospital |
+| Pedro Pascoal | Classificação de vagas para deficiente físico | Possui deficiência física, assim busca vagas preferencias para melhor se locomover |
+| Rita Luz | Classificação de vagas para idosos | Deseja usufruir seu direito como idosoa para usar vaga preferencial |
+| Michael Oliveira | Classificação de vagas cobertas | Fanático pelo bem estar físico do seu carro e deseja uma vaga coberta |
+
+
 
 
 
@@ -51,6 +56,11 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 | RF-015 | $$ O site deve possuir uma categoria “Sobre Nós” | BAIXA |
 | RF-016 | $$ O site deve apresentar informações sobre acessibilidade como leis, importância, etc... | MÉDIA |
 | RF-017 | $$ O site deve apresentar um ranking com os estabelecimentos mais bem avaliados | MÉDIA |
+| RF-018 | $$ O site deve apresentar distinção de vagas preferenciais para grávidas | ALTA |
+| RF-019 | $$ O site deve apresentar distinção de vagas preferenciais para idosos | ALTA |
+| RF-020 | $$ O site deve apresentar distinção de vagas preferenciais para deficiente físicos | ALTA |
+| RF-021 | $$ O site deve apresentar distinção de vagas cobertas | ALTA |
+| RF-022 | $$ O site deve apresentar distinção de vagas que suportam carregamento de carros elétricos | ALTA |
 
 ### Requisitos não Funcionais
 
