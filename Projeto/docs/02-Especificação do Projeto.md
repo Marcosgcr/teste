@@ -8,6 +8,18 @@ Ana Clara Pereira tem 35 anos e possui um carro 100% elétrico. Por causa da lim
 
 Augusto Silva tem 42 anos e é vendedor. Como ele que visitar clientes constantemente, gosta de saber onde tem estacionamentos próximos dos clientes e reservar a sua vaga para não atrasar nos seus encontros.
 
+Carlos Alves tem 29 anos e se desloca de carro ao trabalho todos os dias. Gosta da segurança e praticidade de um estacionamento privativo, mas deseja economizar na mensalidade/anuidade ao pagar o estacionamento. Para isto, ele prefere estacionar em um local em que haja um convênio com a empresa em que trabalha.
+
+Diego Costa possui 45 anos e desloca todos os dias do seu trabalho para buscar seu filho na escola. Para não deixar seu carro em fila dupla ele deseja verificar antes de sair do seu trabalho as vagas próximas da escola reservando assim a vaga.
+
+Luisa Ruiz tem 21 anos e está buscando seu tio que fez uma operação na perda. Já que seu tio possui limitação ao se locomover, ela então necessita de um local o mais próximo do hospital para facilitar ao busca-lo.
+
+Pedro Pascoal tem 34 anos, é deficiente físico e usa seu direito de vagas preferenciais. Prefere se locomover a locais que possuem vagas preferenciais disponíveis, assim é importante a descrição de vagas preferenciais.
+
+Rita Luz é uma idosa de 61 anos e se locomove com seu carro para os locais que dirige sozinha. É importante usar uma vaga preferencial para facilitar a lomocomoção debilitada da mesma.
+
+Michael Oliveira tem 31 anos e é um fanático por seu carro. Valoriza bastante o seu automóvel e por isso acha importante aréas cobertas para proteger seu carro do sol. Não se importa em pagar um estacionamento privativo, desde que haja cobertura para seu carro.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
