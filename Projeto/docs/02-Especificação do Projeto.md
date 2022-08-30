@@ -4,14 +4,14 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-|Ana Clara Pereira||
+|Ana Clara Pereira|<img src="img/AnaClara.jpg" width="100">|
 |---|---| 
 |Idade: 35 anos|Ocupação: Gestora de Recursos Humanos|
 |Tipo de Veículo: Utilitário 100% elétrico||
 |Motivações: | <ul><li>Limitação de locais para recarregar o carro.</li><li> Não ficar sem bateria para chegar em casa</li></ul>|
 |Hobbies:|<ul><li>Praticar artes marciais</li><li>Dançar Forró</li></ul>|
 
-|Augusto Silva||
+|Augusto Silva|<img src="img/AugustoSilva.jpg" width="100">|
 |---|---| 
 |Idade: 42 anos|Ocupação: Vendedor de Maquinário Industrial|
 |Tipo de Veículo: Carro SW||
@@ -32,7 +32,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |Motivações: | <ul><li>Reservar vagas próximas à escola do filho.</li><li> Não ter que esperar em fila-dupla.</li></ul>|
 |Hobbies:|<ul><li>Jogar futebol</li><li>Tocar violão</li></ul>|
 
-|Luisa Ruiz||
+|Luisa Ruiz|<img src="img/LuisaRuiz.jpg" width="100">|
 |---|---| 
 |Idade: 21 anos|Ocupação: Estudante Universitária|
 |Tipo de Veículo: Hatchback||
@@ -46,7 +46,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |Motivações: | <ul><li> Frequentar estabelecimentos com acesso adaptado à cadeirantes.</li><li> Estacionar em locais com vagas preferênciais.</li></ul>|
 |Hobbies:|<ul><li>Frequentar shows de comédia</li><li>Viajar</li></ul>|
 
-|Rita Luz||
+|Rita Luz|<img src="img/RitaLuz.jpg" width="100">|
 |---|---| 
 |Idade: 61 anos|Ocupação: Professora Aposentada|
 |Tipo de Veículo: Sedan||
@@ -127,7 +127,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 ## Diagrama de Casos de Uso
 
-![Exemplo de Diagrama de Fluxo](img/DiagramaCasoDeUso.png)
+![Diagrama de Casos de Uso](img/DiagramaCasoDeUso.png)
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
