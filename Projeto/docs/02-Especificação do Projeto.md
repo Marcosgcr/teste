@@ -4,21 +4,61 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-Ana Clara Pereira tem 35 anos e possui um carro 100% elétrico. Por causa da limitação de locais para recarregar o carro, ela gosta de parar em um estacionamento onde é oferecido um sistema de recarga para que, em dias que precisa de usar mais o carro, ela não fique sem bateria para chegar em casa.
+|Ana Clara Pereira||
+|---|---| 
+|Idade: 35 anos|Ocupação: Gestora de Recursos Humanos|
+|Tipo de Veículo: Utilitário 100% elétrico||
+|Motivações: | <ul><li>Limitação de locais para recarregar o carro.</li><li> Não ficar sem bateria para chegar em casa</li></ul>|
+|Hobbies:|<ul><li>Praticar artes marciais</li><li>Dançar Forró</li></ul>|
 
-Augusto Silva tem 42 anos e é vendedor. Como ele que visitar clientes constantemente, gosta de saber onde tem estacionamentos próximos dos clientes e reservar a sua vaga para não atrasar nos seus encontros.
+|Augusto Silva||
+|---|---| 
+|Idade: 42 anos|Ocupação: Vendedor de Maquinário Industrial|
+|Tipo de Veículo: Carro SW||
+|Motivações: | <ul><li>Visitar clientes constantemente.</li><li> Saber de antemão onde tem estacionamentos próximos dos clientes</li><li>Reservar vagas para não atrasar nos seus encontros</li></ul>|
+|Hobbies:|<ul><li>Viajar</li><li>Pescar</li></ul>|
 
-Carlos Alves tem 29 anos e se desloca de carro ao trabalho todos os dias. Gosta da segurança e praticidade de um estacionamento privativo, mas deseja economizar na mensalidade/anuidade ao pagar o estacionamento. Para isto, ele prefere estacionar em um local em que haja um convênio com a empresa em que trabalha.
+|Carlos Alves||
+|---|---| 
+|Idade: 29 anos|Ocupação: Scrum Master|
+|Tipo de Veículo: Scooter||
+|Motivações: | <ul><li>Gosta da segurança e praticidade de um estacionamento privativo.</li><li> Economizar na mensalidade/anuidade ao pagar o estacionamento.</li><li>Estacionar em locais em que haja convênio com a empresa em que trabalha</li></ul>|
+|Hobbies:|<ul><li>Jogar videogames</li><li>Praticar musculação</li></ul>|
 
-Diego Costa possui 45 anos e desloca todos os dias do seu trabalho para buscar seu filho na escola. Para não deixar seu carro em fila dupla ele deseja verificar antes de sair do seu trabalho as vagas próximas da escola reservando assim a vaga.
+|Diego Costa||
+|---|---| 
+|Idade: 45 anos|Ocupação: Empresário|
+|Tipo de Veículo: Picape 4x4||
+|Motivações: | <ul><li>Reservar vagas próximas à escola do filho.</li><li> Não ter que esperar em fila-dupla.</li></ul>|
+|Hobbies:|<ul><li>Jogar futebol</li><li>Tocar violão</li></ul>|
 
-Luisa Ruiz tem 21 anos e está buscando seu tio que fez uma operação na perda. Já que seu tio possui limitação ao se locomover, ela então necessita de um local o mais próximo do hospital para facilitar ao busca-lo.
+|Luisa Ruiz||
+|---|---| 
+|Idade: 21 anos|Ocupação: Estudante Universitária|
+|Tipo de Veículo: Hatchback||
+|Motivações: | <ul><li> Buscar seu tio que fez uma operação na perna.</li><li> Estacionar próximo o hospital para facilitar para seu passageiro com locomoção deteriorada.</li></ul>|
+|Hobbies:|<ul><li>Trabalho voluntário</li><li>Jardinagem</li></ul>|
 
-Pedro Pascoal tem 34 anos, é deficiente físico e usa seu direito de vagas preferenciais. Prefere se locomover a locais que possuem vagas preferenciais disponíveis, assim é importante a descrição de vagas preferenciais.
+|Pedro Pascoal||
+|---|---| 
+|Idade: 34 anos|Ocupação: Arquiteto|
+|Tipo de Veículo: SUV adaptada||
+|Motivações: | <ul><li> Frequentar estabelecimentos com acesso adaptado à cadeirantes.</li><li> Estacionar em locais com vagas preferênciais.</li></ul>|
+|Hobbies:|<ul><li>Frequentar shows de comédia</li><li>Viajar</li></ul>|
 
-Rita Luz é uma idosa de 61 anos e se locomove com seu carro para os locais que dirige sozinha. É importante usar uma vaga preferencial para facilitar a lomocomoção debilitada da mesma.
+|Rita Luz||
+|---|---| 
+|Idade: 61 anos|Ocupação: Professora Aposentada|
+|Tipo de Veículo: Sedan||
+|Motivações: | <ul><li> Frequentar estabelecimentos com poucas escadas ou rampas.</li><li> Estacionar em locais com vagas preferênciais.</li></ul>|
+|Hobbies:|<ul><li>Fotografia</li><li>Leitura</li></ul>|
 
-Michael Oliveira tem 31 anos e é um fanático por seu carro. Valoriza bastante o seu automóvel e por isso acha importante aréas cobertas para proteger seu carro do sol. Não se importa em pagar um estacionamento privativo, desde que haja cobertura para seu carro.
+|Michael Oliveira||
+|---|---| 
+|Idade: 31 anos|Ocupação: Engenheiro Civil|
+|Tipo de Veículo: Sedan||
+|Motivações: | <ul><li> Proteger o carrro do sol e outros elementos.</li><li> Estacionar em local com segurança robusta.</li></ul>|
+|Hobbies:|<ul><li>Participar de exposições de carros</li><li>Assistir à corridas profissionais</li></ul>|
 
 ## Histórias de Usuários
 
